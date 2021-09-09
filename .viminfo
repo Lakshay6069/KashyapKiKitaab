@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1631182434,,"wq"
+|2,0,1631185442,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,81 @@
 # Registers:
 
 # File marks:
-'0  2  3  ~/friends.sh
-|4,48,2,3,1631182434,"~/friends.sh"
-'1  2  2  ~/one.sh
-|4,49,2,2,1631182312,"~/one.sh"
+'0  6  2  ~/office.sh
+|4,48,6,2,1631185442,"~/office.sh"
+'1  1  0  ~/office.sh
+|4,49,1,0,1631185383,"~/office.sh"
+'2  1  0  ~/office.sh
+|4,50,1,0,1631185383,"~/office.sh"
+'3  2  3  ~/friends.sh
+|4,51,2,3,1631182434,"~/friends.sh"
+'4  2  2  ~/one.sh
+|4,52,2,2,1631182312,"~/one.sh"
 
 # Jumplist (newest first):
+-'  6  2  ~/office.sh
+|4,39,6,2,1631185442,"~/office.sh"
+-'  1  0  ~/office.sh
+|4,39,1,0,1631185423,"~/office.sh"
+-'  1  0  ~/office.sh
+|4,39,1,0,1631185383,"~/office.sh"
 -'  2  3  ~/friends.sh
 |4,39,2,3,1631182434,"~/friends.sh"
+-'  2  3  ~/friends.sh
+|4,39,2,3,1631182434,"~/friends.sh"
+-'  2  3  ~/friends.sh
+|4,39,2,3,1631182434,"~/friends.sh"
+-'  2  3  ~/friends.sh
+|4,39,2,3,1631182434,"~/friends.sh"
+-'  1  0  ~/friends.sh
+|4,39,1,0,1631182422,"~/friends.sh"
+-'  1  0  ~/friends.sh
+|4,39,1,0,1631182422,"~/friends.sh"
+-'  1  0  ~/friends.sh
+|4,39,1,0,1631182422,"~/friends.sh"
 -'  1  0  ~/friends.sh
 |4,39,1,0,1631182422,"~/friends.sh"
 -'  2  2  ~/one.sh
 |4,39,2,2,1631182312,"~/one.sh"
 -'  2  2  ~/one.sh
 |4,39,2,2,1631182312,"~/one.sh"
+-'  2  2  ~/one.sh
+|4,39,2,2,1631182312,"~/one.sh"
+-'  2  2  ~/one.sh
+|4,39,2,2,1631182312,"~/one.sh"
+-'  2  2  ~/one.sh
+|4,39,2,2,1631182312,"~/one.sh"
+-'  2  2  ~/one.sh
+|4,39,2,2,1631182312,"~/one.sh"
+-'  2  2  ~/one.sh
+|4,39,2,2,1631182312,"~/one.sh"
+-'  2  2  ~/one.sh
+|4,39,2,2,1631182312,"~/one.sh"
+-'  1  0  ~/one.sh
+|4,39,1,0,1631182245,"~/one.sh"
+-'  1  0  ~/one.sh
+|4,39,1,0,1631182245,"~/one.sh"
+-'  1  0  ~/one.sh
+|4,39,1,0,1631182245,"~/one.sh"
+-'  1  0  ~/one.sh
+|4,39,1,0,1631182245,"~/one.sh"
+-'  1  0  ~/one.sh
+|4,39,1,0,1631182245,"~/one.sh"
+-'  1  0  ~/one.sh
+|4,39,1,0,1631182245,"~/one.sh"
 -'  1  0  ~/one.sh
 |4,39,1,0,1631182245,"~/one.sh"
 -'  1  0  ~/one.sh
 |4,39,1,0,1631182245,"~/one.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/office.sh
+	*	1631185440	0
+	"	6	2
+	^	6	3
+	.	6	2
+	+	6	2
 
 > ~/friends.sh
 	*	1631182433	0
